@@ -5,10 +5,6 @@ Conecta Saber (organização fictícia)
 
 Programa em modo console para cadastrar, consultar, alterar e excluir
 estudantes, com armazenamento em arquivo JSON e estatísticas básicas.
-
-Dados coletados (princípio da necessidade da LGPD): identificador,
-nome, idade e curso de interesse. Nenhum dado sensível é solicitado.
-Usa apenas a biblioteca padrão do Python 3.
 """
 
 import json
